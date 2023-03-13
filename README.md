@@ -26,8 +26,8 @@ My challenge is to build out this QR code component and get it looking as close 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See my Solution](https://github.com/rahulsaw2003/qr-code-component)
+- Live Site URL: [Visit my Live site](https://qr-code-component-mu-blush.vercel.app/)
 
 
 ### Built with
